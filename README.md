@@ -4,4 +4,3 @@
 
 ### Index
 - face : fetch_olivetti_faces()를 이용한 얼굴분류
-    1. SVM_Linear : SVM(kernel='linear')
