@@ -1,6 +1,9 @@
 ## Study-ML ##
-    1. 아나콘다 다운로드 (https://anaconda.org/)
-    2. Anaconda Prompt 실행 → jupyter notebook
+    $ python3 -m venv ./myenv
+    $ source myenv/bin/activate
+    $ pip install --upgrade pip
+    $ pip install numpy
+    $ pip install scikit-learn
 
 ### Index
-- face : fetch_olivetti_faces()를 이용한 얼굴분류
+- #### [face](https://github.com/ber01/Study-ML/tree/master/face)
